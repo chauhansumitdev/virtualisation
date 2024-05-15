@@ -1,0 +1,24 @@
+virtualisation is the process of creation of virtual part of something rather than the real thing. eg os,server etc
+best example is the partition of the harddrive 
+
+with this we can support multiple instance of different applications that would require different architecture of the hardware on the same machine
+
+core concept -- to enable a computing device to run multiple indepependet systems at the same time
+this thing reduces the number of devices to fewer devices with multiple support
+
+
+HYPERVISOR
+it is a piece of computer software , firmware that creates and runs virtual machines
+the main purpose is to act as a black box to abstract the underlying hardware from the softwares running on top of it
+use mem mgmt.
+also known as virtual machine monitor
+
+
+
+virtualisation and cloud computing are used together to build the public or private cloud infra.
+
+the physical cpu is abstracteed into virtual cpu, the time is shared between different processes
+
+virtual cpu
+virtual memory
+virtual strage
